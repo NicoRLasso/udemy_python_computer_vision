@@ -9,7 +9,7 @@ dependencies:
   - keras
   - matplotlib
   - numpy
-  - opencv
+  - opencv-contrib-python
   - pandas
   - python=3.9
   - scikit-learn
